@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -195,6 +199,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -482,6 +490,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -701,6 +713,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -794,7 +810,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 35996028}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -828,6 +844,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -908,7 +928,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 52984918}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1082,6 +1102,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -1438,6 +1462,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -1578,6 +1606,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -1658,6 +1690,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -1863,6 +1899,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -2117,7 +2157,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 111861673}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2213,6 +2253,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -2392,6 +2436,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -2487,6 +2535,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Grass_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -2567,6 +2619,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -2709,7 +2765,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 129154812}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2742,7 +2798,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 138267327}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2837,7 +2893,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 148518002}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2983,6 +3039,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -3184,7 +3244,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 184739753}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3505,7 +3565,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 199185738}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3608,6 +3668,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -3687,7 +3751,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 201307591}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3721,6 +3785,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -3807,6 +3875,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -3901,7 +3973,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 211436010}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3996,7 +4068,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 215798470}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4097,6 +4169,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -4271,6 +4347,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Grass_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -4412,7 +4492,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 250150867}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4743,6 +4823,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -4900,7 +4984,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 271034645}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4934,6 +5018,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -5015,6 +5103,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -5473,6 +5565,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -5971,6 +6067,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -6127,6 +6227,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -6299,7 +6403,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 352186027}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6412,6 +6516,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -6507,6 +6615,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -6601,6 +6713,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -6901,6 +7017,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Grass_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -6980,7 +7100,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 375834791}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7014,6 +7134,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -7177,6 +7301,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -7271,6 +7399,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -7511,6 +7643,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -7840,7 +7976,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 428628476}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7874,6 +8010,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -7935,7 +8075,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 442090934}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7968,7 +8108,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 446164177}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8065,6 +8205,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Grass_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -8145,6 +8289,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -8230,7 +8378,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 456734254}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8607,6 +8755,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -8922,6 +9074,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -9162,6 +9318,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -9382,6 +9542,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -9740,7 +9904,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 533082388}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9889,7 +10053,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 559211073}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9985,6 +10149,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -10357,6 +10525,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -10498,7 +10670,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 596972734}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10532,6 +10704,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -10767,7 +10943,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 608570995}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10959,7 +11135,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 623415215}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11073,7 +11249,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 627086284}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11106,7 +11282,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 627328327}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11223,6 +11399,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -11541,6 +11721,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -11875,6 +12059,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -12262,6 +12450,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -12419,7 +12611,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 694974824}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12452,7 +12644,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 696798947}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12486,6 +12678,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -12840,7 +13036,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 719659249}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13029,7 +13225,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 732578572}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13063,6 +13259,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -13158,6 +13358,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -13639,6 +13843,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -13969,7 +14177,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 771999705}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14003,6 +14211,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -14143,6 +14355,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -14523,7 +14739,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 800574224}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14557,6 +14773,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -14715,7 +14935,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 807457167}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14749,6 +14969,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -14843,7 +15067,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 810403697}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14877,6 +15101,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -14958,6 +15186,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -15115,6 +15347,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -15581,6 +15817,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Grass_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -15740,6 +15980,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -15833,7 +16077,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 867681662}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15964,6 +16208,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -16142,6 +16390,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -16409,6 +16661,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -16489,6 +16745,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -16649,6 +16909,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -16742,7 +17006,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 903464749}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16776,6 +17040,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -16856,7 +17124,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 905269011}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16889,7 +17157,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 905406306}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16923,6 +17191,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -17145,6 +17417,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -17306,6 +17582,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -17523,7 +17803,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 926973978}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17557,6 +17837,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -17652,6 +17936,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -17995,6 +18283,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -18152,6 +18444,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -18278,7 +18574,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 951120231}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18391,6 +18687,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -18490,6 +18790,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -18634,6 +18938,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -18715,6 +19023,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -18780,90 +19092,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 04f870339f4c164419ea01dd6aa73215, type: 3}
---- !u!1001 &976135764
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1578195324831376, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-      propertyPath: m_Name
-      value: Moving Object
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437338220551014, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437338220551014, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.9455174
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437338220551014, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.8122169
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437338220551014, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 6.9607267
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437338220551014, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.23
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437338220551014, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 52.96
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437338220551014, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437338220551014, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437338220551014, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437338220551014, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437338220551014, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437338220551014, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437338220551014, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
---- !u!1 &976135765 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1578195324831376, guid: 3e033d750be697f498eb1cafdb31fd5c, type: 3}
-  m_PrefabInstance: {fileID: 976135764}
-  m_PrefabAsset: {fileID: 0}
---- !u!64 &976135766
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 976135765}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: 9c2d952b613c45941a5f0f7dad49839d, type: 3}
 --- !u!1 &984835158
 GameObject:
   m_ObjectHideFlags: 0
@@ -18873,7 +19101,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 984835159}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoars (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19320,6 +19548,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -19401,6 +19633,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -19480,7 +19716,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 999444707}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19594,7 +19830,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1025617017}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20022,6 +20258,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Grass_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -20359,6 +20599,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Grass_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -20614,6 +20858,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -21327,7 +21575,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1112313164}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21440,6 +21688,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -21519,7 +21771,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1134484166}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21553,6 +21805,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -21633,7 +21889,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1138630539}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21728,7 +21984,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1146909539}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21960,6 +22216,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -22039,7 +22299,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1159163591}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22135,6 +22395,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -22360,6 +22624,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -22676,6 +22944,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -22838,6 +23110,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -22932,6 +23208,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -23183,7 +23463,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1258072395}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23217,6 +23497,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -23399,7 +23683,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1272354547}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23608,6 +23892,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -23947,7 +24235,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1303743271}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23980,7 +24268,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1303743768}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24155,6 +24443,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -24220,6 +24512,60 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 04f870339f4c164419ea01dd6aa73215, type: 3}
+--- !u!1 &1325040300
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1325040302}
+  - component: {fileID: 1325040301}
+  m_Layer: 0
+  m_Name: PlayMakerGUI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1325040301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1325040300}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -73581967, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  previewOnGUI: 1
+  enableGUILayout: 0
+  drawStateLabels: 1
+  enableStateLabelsInBuilds: 0
+  GUITextureStateLabels: 0
+  GUITextStateLabels: 0
+  filterLabelsWithDistance: 0
+  maxLabelDistance: 10
+  controlMouseCursor: 1
+  labelScale: 1
+--- !u!4 &1325040302
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1325040300}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1328585864
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24230,6 +24576,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -24668,7 +25018,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1347460671}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24702,6 +25052,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -24918,6 +25272,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -25173,7 +25531,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1385049039}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25207,6 +25565,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -25289,6 +25651,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -25369,6 +25735,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -25560,7 +25930,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1424161375}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25823,6 +26193,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -26223,6 +26597,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -26654,6 +27032,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -26850,6 +27232,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Grass_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -26934,7 +27320,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1495983301}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27047,6 +27433,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -27142,6 +27532,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Grass_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -27227,6 +27621,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -27703,7 +28101,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1538258314}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27737,6 +28135,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -28371,6 +28773,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -28466,6 +28872,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Grass_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -28546,6 +28956,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -28703,6 +29117,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -28925,6 +29343,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -29136,6 +29558,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -29311,7 +29737,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1606245050}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29345,6 +29771,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -29629,6 +30059,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -29722,7 +30156,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1623851871}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29836,7 +30270,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1637829723}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29869,7 +30303,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1639910122}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29903,6 +30337,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -30095,6 +30533,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -30201,6 +30643,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -30513,7 +30959,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1680032484}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30823,6 +31269,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -30897,7 +31347,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1732381788}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31004,7 +31454,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1734126502}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31037,7 +31487,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1735410038}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31071,6 +31521,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -31821,6 +32275,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -31900,7 +32358,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1783763888}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31933,7 +32391,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1784806762}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoars
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32102,6 +32560,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -32183,6 +32645,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Grass_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -32263,6 +32729,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -32432,6 +32902,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -32623,6 +33097,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -32718,6 +33196,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -32792,7 +33274,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1832274383}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32967,6 +33449,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -33103,7 +33589,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1847358549}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33214,7 +33700,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1861080490}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33381,6 +33867,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -33523,6 +34013,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -33935,7 +34429,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1914333152}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34030,7 +34524,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1944250129}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Roads (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34080,6 +34574,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -34142,6 +34640,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -34242,6 +34744,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -34666,6 +35172,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Grass_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -34847,6 +35357,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -34928,6 +35442,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -35007,7 +35525,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1990388723}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35041,6 +35559,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -35404,7 +35926,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2009353598}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Road (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35438,6 +35960,10 @@ PrefabInstance:
     - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_Name
       value: SM_Env_Road_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
@@ -36272,6 +36798,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Road_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1919677564439932, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4834257298755560, guid: f8a48f8be2524674799f72b2d14af8e9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -36361,7 +36891,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2077692293}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.123, y: 0, z: 18.07}
+  m_LocalPosition: {x: 1.123, y: 0, z: 46.51}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -36458,7 +36988,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2087107562}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trotoar (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36633,6 +37163,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Grass_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -36794,6 +37328,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -37216,7 +37754,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2139770791}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Roads
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37266,6 +37804,10 @@ PrefabInstance:
     - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_Name
       value: SM_Env_Driveway_Wide_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1502677324712440, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4060126511555702, guid: 8cf973ab972cbf344b1831306bcce4f3, type: 3}
       propertyPath: m_RootOrder
@@ -37347,6 +37889,10 @@ PrefabInstance:
     - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_Name
       value: SM_Env_Grass_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412533221088426, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4546998283917580, guid: 6ec739cd7f6e20445b13bced96e1a470, type: 3}
       propertyPath: m_RootOrder
@@ -39594,6 +40140,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Belang
       objectReference: {fileID: 0}
+    - target: {fileID: 694278419708441833, guid: ac2250b98a30b7a4b90df834b0a17083, type: 3}
+      propertyPath: GroundLayers.m_Bits
+      value: 585
+      objectReference: {fileID: 0}
+    - target: {fileID: 7296673432703016466, guid: ac2250b98a30b7a4b90df834b0a17083, type: 3}
+      propertyPath: canPush
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7296673432703016466, guid: ac2250b98a30b7a4b90df834b0a17083, type: 3}
+      propertyPath: strength
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7296673432703016466, guid: ac2250b98a30b7a4b90df834b0a17083, type: 3}
+      propertyPath: pushLayers.m_Bits
+      value: 64
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac2250b98a30b7a4b90df834b0a17083, type: 3}
 --- !u!4 &3893294197904641856 stripped
@@ -39601,6 +40163,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 209771596397719128, guid: ac2250b98a30b7a4b90df834b0a17083, type: 3}
   m_PrefabInstance: {fileID: 3814127040336142616}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4055794994194835193
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4055165680113589195, guid: f1d979400b85ebd469a8fc4207d87909, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055165680113589195, guid: f1d979400b85ebd469a8fc4207d87909, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.9607267
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055165680113589195, guid: f1d979400b85ebd469a8fc4207d87909, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055165680113589195, guid: f1d979400b85ebd469a8fc4207d87909, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 52.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055165680113589195, guid: f1d979400b85ebd469a8fc4207d87909, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055165680113589195, guid: f1d979400b85ebd469a8fc4207d87909, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055165680113589195, guid: f1d979400b85ebd469a8fc4207d87909, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055165680113589195, guid: f1d979400b85ebd469a8fc4207d87909, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055165680113589195, guid: f1d979400b85ebd469a8fc4207d87909, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055165680113589195, guid: f1d979400b85ebd469a8fc4207d87909, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4055165680113589195, guid: f1d979400b85ebd469a8fc4207d87909, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4056774951122617917, guid: f1d979400b85ebd469a8fc4207d87909, type: 3}
+      propertyPath: m_Name
+      value: Moving Object
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f1d979400b85ebd469a8fc4207d87909, type: 3}
 --- !u!1 &4416926081693668858 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 694278419708441826, guid: ac2250b98a30b7a4b90df834b0a17083, type: 3}
@@ -39698,6 +40317,330 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &6982812146364044610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4416926081693668858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1384774831, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fsm:
+    dataVersion: 2
+    usedInTemplate: {fileID: 0}
+    name: Push
+    startState: Cek Kondisi
+    states:
+    - name: Cek Kondisi
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 100
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: Dorong
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: State 1
+        linkStyle: 0
+        linkConstraint: 0
+        linkTarget: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - HutongGames.PlayMaker.Actions.TriggerEvent
+        - HutongGames.PlayMaker.Actions.SetAnimatorBool
+        customNames:
+        - 
+        - 
+        actionEnabled: 0101
+        actionIsOpen: 0101
+        actionStartIndex: 0000000005000000
+        actionHashCodes: 9c5124005f913504
+        unityObjectParams: []
+        fsmGameObjectParams:
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {fileID: 0}
+        fsmOwnerDefaultParams:
+        - ownerOption: 0
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        - ownerOption: 0
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: moving
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: IsPush
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams:
+        - Dorong
+        byteData: 000000000000000000
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 14000000070000001200000017000000130000001400000012000000110000000100000007000000
+        paramName:
+        - gameObject
+        - trigger
+        - collideTag
+        - sendEvent
+        - storeCollider
+        - gameObject
+        - parameter
+        - Value
+        - everyFrame
+        - everyFrameOption
+        paramDataPos: 00000000000000000000000000000000000000000100000001000000000000000400000005000000
+        paramByteDataSize: 00000000040000000000000000000000000000000000000000000000000000000100000004000000
+    - name: State 1
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 220
+        y: 100
+        width: 100
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: Cek Kondisi
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: Cek Kondisi
+        linkStyle: 0
+        linkConstraint: 0
+        linkTarget: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - HutongGames.PlayMaker.Actions.SetAnimatorBool
+        - HutongGames.PlayMaker.Actions.TriggerEvent
+        customNames:
+        - 
+        - 
+        actionEnabled: 0101
+        actionIsOpen: 0101
+        actionStartIndex: 0000000005000000
+        actionHashCodes: 5f9135049c512400
+        unityObjectParams: []
+        fsmGameObjectParams:
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {fileID: 0}
+        fsmOwnerDefaultParams:
+        - ownerOption: 0
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        - ownerOption: 0
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: IsPush
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: moving
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams:
+        - Cek Kondisi
+        byteData: 000000000002000000
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 14000000120000001100000001000000070000001400000007000000120000001700000013000000
+        paramName:
+        - gameObject
+        - parameter
+        - Value
+        - everyFrame
+        - everyFrameOption
+        - gameObject
+        - trigger
+        - collideTag
+        - sendEvent
+        - storeCollider
+        paramDataPos: 00000000000000000000000000000000010000000100000005000000010000000000000000000000
+        paramByteDataSize: 00000000000000000000000001000000040000000000000004000000000000000000000000000000
+    events:
+    - name: Dorong
+      isSystemEvent: 0
+      isGlobal: 0
+    - name: Cek Kondisi
+      isSystemEvent: 0
+      isGlobal: 0
+    globalTransitions: []
+    variables:
+      floatVariables: []
+      intVariables: []
+      boolVariables: []
+      stringVariables: []
+      vector2Variables: []
+      vector3Variables: []
+      colorVariables: []
+      rectVariables: []
+      quaternionVariables: []
+      gameObjectVariables: []
+      objectVariables: []
+      materialVariables: []
+      textureVariables: []
+      arrayVariables: []
+      enumVariables: []
+      categories:
+      - 
+      variableCategoryIDs: 
+    description: 
+    docUrl: 
+    showStateLabel: 0
+    maxLoopCount: 0
+    watermark: 
+    password: 
+    locked: 0
+    manualUpdate: 0
+    outVariableIndices: 
+    keepDelayedEventsOnStateExit: 0
+    preprocessed: 0
+    ExposedEvents: []
+    OutputEvents: []
+    RestartOnEnable: 1
+    ResetVariablesOnEnable: 0
+    EnableDebugFlow: 0
+    EnableBreakpoints: 1
+    editorFlags: 225
+    activeStateName: 
+    mouseEvents: 0
+    handleLevelLoaded: 0
+    handleTriggerEnter2D: 0
+    handleTriggerExit2D: 0
+    handleTriggerStay2D: 0
+    handleCollisionEnter2D: 0
+    handleCollisionExit2D: 0
+    handleCollisionStay2D: 0
+    handleTriggerEnter: 0
+    handleTriggerExit: 0
+    handleTriggerStay: 0
+    handleCollisionEnter: 0
+    handleCollisionExit: 0
+    handleCollisionStay: 0
+    handleParticleCollision: 0
+    handleControllerColliderHit: 0
+    handleJointBreak: 0
+    handleJointBreak2D: 0
+    handleOnGUI: 0
+    handleFixedUpdate: 0
+    handleLateUpdate: 0
+    handleApplicationEvents: 0
+    handleUiEvents: 0
+    handleLegacyNetworking: 0
+    handleAnimatorMove: 0
+    handleAnimatorIK: 0
+  fsmTemplate: {fileID: 0}
+  eventHandlerComponentsAdded: 0
 --- !u!4 &8338988566054415526 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5139884526134431166, guid: ac2250b98a30b7a4b90df834b0a17083, type: 3}
