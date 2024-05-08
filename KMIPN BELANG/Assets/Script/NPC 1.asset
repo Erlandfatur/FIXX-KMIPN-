@@ -12,11 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7bff3cec46a96e142937f4a7ba98e826, type: 3}
   m_Name: NPC 1
   m_EditorClassIdentifier: 
-  nama: NPC 1
+  nama: Martin Cooper
   dialogue:
   - Hai
-  - Baik, kamu apa kabar?
-  - Senang bertemu kamu kembali
+  - kamu terlihat asing ya, apa kamu pendatang?
+  - 'kamu datang melewati suatu gerbang bercahaya kan. '
+  - Selamat datang di Nusantara N/A
+  - Disini adalah tempat sejarah nusantara terjadi, kamu akan melewati berbagai macam
+    rintangan dan mengetahui Teknologi masa depan serta  mengumpulkan potongan -
+    potongan teknologi  untuk menyelesaikan tantangan yang ada di dunia ini.
+  - saudaramu ada di masa lalu dan kamu berada dimasa depan. Segeralah selesaikan
+    tantangan di Nusantara N/A agar dapat bertemu dengan nya.
   playerDialogue:
-  - Hai, apa kabar?
-  - Aku baik juga
+  - " \u2026.."
+  - pendatang? Apa maksudnya?
+  - iya benar, aku bersama saudaraku tetapi kami terpisah
+  - Nusantara ? apa itu
+  - bagaimana dengan saudaraku?
